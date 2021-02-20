@@ -2,6 +2,7 @@ build/
 *.apk
 output.json
 
+
 *.iml
 .gradle/
 /local.properties
